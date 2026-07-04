@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Aditya%20Saxena&fontSize=48&fontColor=e2e8f0&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20%2F%20REST%20API%20Engineer&descAlignY=56&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Aditya%20Saxena&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20Enthusiast%20%C2%B7%20Java%20Developer&descAlignY=56&descSize=17&animation=fadeIn" />
 
 <br/>
 
@@ -31,45 +31,35 @@ I design and build REST APIs and full-stack web applications, working across bot
 <td valign="top" width="50%">
 
 **Languages**
-
-<img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=E76F00" />
-<img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,mysql,html,css" />
 
 **Backend**
-
-<img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express.js-1E293B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 **Frontend**
-
-<img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react" /> &nbsp;
 <img src="https://img.shields.io/badge/EJS-1E293B?style=for-the-badge&logo=javascript&logoColor=B4CA65" />
 
 </td>
 <td valign="top" width="50%">
 
 **Databases**
-
-<img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/MongoDB-1E293B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 **Tools**
-
-<img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS%20Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Postman-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 **DevOps — In Progress**
-
-<img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-1E293B?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions" />
 
 **Learning**
-
+<br/>
 <img src="https://img.shields.io/badge/System%20Design-1E293B?style=for-the-badge&logo=architecture&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/JWT%20Auth-1E293B?style=for-the-badge&logo=jsonwebtokens&logoColor=EFEFEF" />
 
@@ -84,7 +74,7 @@ I design and build REST APIs and full-stack web applications, working across bot
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya2saxena&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya2saxena&hide_border=true&background=0D1117&stroke=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img height="165" src="https://streak-stats.demolab.com?user=Aditya2saxena&hide_border=true&background=0D1117&stroke=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 <br/>
 
@@ -95,17 +85,13 @@ I design and build REST APIs and full-stack web applications, working across bot
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2saxena&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=E2E8F0&area=true&area_color=1E293B" width="100%" />
 
-</div>
-
-<details>
-<summary><b>Contribution Snake</b></summary>
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Aditya2saxena/Aditya2saxena/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-> Powered by the [`platane/snk`](https://github.com/Platane/snk) GitHub Action. Add `.github/workflows/snake.yml` to this profile repo to activate it on a schedule.
+</div>
 
-</details>
+> Snake animation renders once the [`platane/snk`](https://github.com/Platane/snk) Action is added to this profile repo at `.github/workflows/snake.yml` — it runs on a schedule and commits the SVG automatically.
 
 <div align="center">
 
@@ -154,6 +140,20 @@ I design and build REST APIs and full-stack web applications, working across bot
 
 ---
 
+### Quora Posts CRUD
+
+**Overview** — A Quora-style question and answer application demonstrating CRUD operations over a content/reply data model.
+
+**Tech Stack** — Node.js · Express.js · MongoDB · EJS
+
+**Key Features** — Full CRUD with RESTful routing · clean separation of routes, models, and views
+
+**Future Improvements** — Nested comments/replies, upvotes, and user authentication would meaningfully differentiate this from WanderLust rather than repeating the same CRUD pattern
+
+**Repository:** [`github.com/Aditya2saxena/Quora-Posts-CRUD`](https://github.com/Aditya2saxena/Quora-Posts-CRUD)
+
+---
+
 ### Portfolio
 
 **Overview** — Personal site presenting background, skills, and project case studies with a minimal, typography-first layout.
@@ -161,8 +161,6 @@ I design and build REST APIs and full-stack web applications, working across bot
 **Architecture** — Static HTML/CSS/JS, structured around clearly separated sections rather than a single long page.
 
 **Tech Stack** — HTML5 · CSS3 · JavaScript
-
-**Engineering Challenges** — Keeping the design restrained and fast-loading without reaching for a framework or heavy dependencies.
 
 **Key Features** — Fully responsive layout · lightweight, dependency-free build
 
@@ -177,6 +175,8 @@ I design and build REST APIs and full-stack web applications, working across bot
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/LeetCode-1E293B?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-1E293B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-1E293B?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
 
 </div>
 
@@ -210,6 +210,16 @@ I'd rather ship something small that's correctly validated, properly error-handl
 
 <br/>
 
+## Quote
+
+<div align="center">
+
+> *"Write code that is easy to read, easy to maintain, and easy to scale."*
+
+</div>
+
+<br/>
+
 ## Contact
 
 <div align="center">
@@ -222,7 +232,7 @@ I'd rather ship something small that's correctly validated, properly error-handl
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=120&section=footer" />
 
 <div align="center">
 
